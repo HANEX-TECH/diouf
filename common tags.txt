@@ -1,0 +1,36 @@
+//linking to css. and is put immediately after the closing tag of the title//
+
+<link rel="stylesheet" type="text/css" href="name of css doc.css"
+
+//anchor tag is for linking different web pages//
+
+<a href="url or save as.html" target="can be _self or _blank"> link available</a> 
+
+//inserting images//
+
+<img src="url or saveas.jpg" alt="Test Image" attributes=" width, height, radius"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
